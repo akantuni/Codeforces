@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="56393fd5-fae8-4727-8690-bc89bc4bc51e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -168,46 +186,57 @@
       <workItem from="1588985827354" duration="7361000" />
       <workItem from="1590160431334" duration="28000" />
       <workItem from="1599343186505" duration="2407000" />
-      <workItem from="1599351643286" duration="7453000" />
+      <workItem from="1599351643286" duration="7962000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1636" height="295" key="GridCell.Tab.0.bottom" timestamp="1599364256665">
+    <state width="1636" height="364" key="GridCell.Tab.0.bottom" timestamp="1599366030746">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1636" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1599364256665" />
-    <state width="1636" height="295" key="GridCell.Tab.0.center" timestamp="1599364256664">
+    <state width="1636" height="364" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1599366030746" />
+    <state width="1636" height="364" key="GridCell.Tab.0.center" timestamp="1599366030745">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1636" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1599364256664" />
-    <state width="1636" height="295" key="GridCell.Tab.0.left" timestamp="1599364256663">
+    <state width="1636" height="364" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1599366030745" />
+    <state width="1636" height="364" key="GridCell.Tab.0.left" timestamp="1599366030745">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1636" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1599364256663" />
-    <state width="1636" height="295" key="GridCell.Tab.0.right" timestamp="1599364256664">
+    <state width="1636" height="364" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1599366030745" />
+    <state width="1636" height="364" key="GridCell.Tab.0.right" timestamp="1599366030746">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1636" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1599364256664" />
-    <state width="1636" height="364" key="GridCell.Tab.1.bottom" timestamp="1599364131716">
+    <state width="1636" height="364" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1599366030746" />
+    <state width="1636" height="364" key="GridCell.Tab.1.bottom" timestamp="1599366030748">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1636" height="364" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1599364131716" />
-    <state width="1636" height="364" key="GridCell.Tab.1.center" timestamp="1599364131715">
+    <state width="1636" height="364" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1599366030748" />
+    <state width="1636" height="364" key="GridCell.Tab.1.center" timestamp="1599366030747">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1636" height="364" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1599364131715" />
-    <state width="1636" height="364" key="GridCell.Tab.1.left" timestamp="1599364131714">
+    <state width="1636" height="364" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1599366030747" />
+    <state width="1636" height="364" key="GridCell.Tab.1.left" timestamp="1599366030747">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1636" height="364" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1599364131714" />
-    <state width="1636" height="364" key="GridCell.Tab.1.right" timestamp="1599364131716">
+    <state width="1636" height="364" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1599366030747" />
+    <state width="1636" height="364" key="GridCell.Tab.1.right" timestamp="1599366030747">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1636" height="364" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1599364131716" />
+    <state width="1636" height="364" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1599366030747" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -216,11 +245,6 @@
           <url>file://$PROJECT_DIR$/Round #640 (Div. 4)/B (bad code).py</url>
           <line>5</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Round #667 (Div. 3)/C.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
