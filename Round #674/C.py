@@ -9,7 +9,5 @@ for i in range(t):
     else:
         if floor(sqrt(n)) ** 2 == n:
             print(floor(sqrt(n) * 2 - 2))
-        else:    
+        else:
             print(floor(sqrt(n) * 2 - 1))
-
-

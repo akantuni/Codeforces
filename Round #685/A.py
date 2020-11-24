@@ -1,4 +1,5 @@
 import math
+
 t = int(input())
 
 for i in range(t):
@@ -7,6 +8,3 @@ for i in range(t):
         print(n - 1)
     else:
         print(2 + (n & 1))
-
-
-

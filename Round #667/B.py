@@ -1,7 +1,7 @@
 t = int(input())
 for i in range(t):
     a, b, x, y, n = list(map(int, input().split()))
-    diff_a = (a - x)
+    diff_a = a - x
     diff_b = min((b - y), n)
     temp_a = a
     temp_b = b
@@ -21,8 +21,8 @@ for i in range(t):
         if 0 < temp_a * temp_b:
             mn = temp_a * temp_b
 
-    diff_b = (b - y)
-    diff_a = (a - x)
+    diff_b = b - y
+    diff_a = a - x
 
     if diff_b >= n:
         if 0 < (b - n) * a < mn:

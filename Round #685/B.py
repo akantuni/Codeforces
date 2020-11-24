@@ -10,11 +10,9 @@ for k in range(t):
         verdict = ""
         if s[l] in s[0:l] and l != 0:
             verdict = "YES"
-        elif s[r] in s[(r + 1):] and r != j - 1:
+        elif s[r] in s[(r + 1) :] and r != j - 1:
             verdict = "YES"
         else:
-             verdict = "NO"
+            verdict = "NO"
 
         print(verdict)
-      
-            

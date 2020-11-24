@@ -1,4 +1,5 @@
 from math import ceil
+
 t = int(input())
 
 for i in range(t):
@@ -8,5 +9,3 @@ for i in range(t):
         print(1)
     else:
         print(ceil((n - 2) / x) + 1)
-
-

@@ -22,12 +22,7 @@ for i in range(t):
         if diff < 0 or diff % k > 0:
             verdict = "No"
             break
-        elif j == 25 and diff > 0:
-            verdict = "No"
-            break
-        
         if j < 25:
             one[j + 1] += diff
 
     print(verdict)
-
