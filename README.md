@@ -1,5 +1,11 @@
 # Solutions to [Codeforces](https://codeforces.com) Problems
 
+### [Codeforces Round #692 (Div. 2)](https://codeforces.com/contest/1465) - `2/6`
+
+- **[1465A](https://github.com/akantuni/Codeforces/tree/master/1465A)** - In-game Chat - **Accepted**
+- **[1465B](https://github.com/akantuni/Codeforces/tree/master/1465B)** - Fair Number - **Accepted**
+- [1465C](https://github.com/akantuni/Codeforces/tree/master/1465C) - Peaceful Rooks - **Time Limit on Test Case 4**
+
 ### [Codeforces Round #686 (Div. 3)](https://codeforces.com/contest/1454) - `2/6`
 
 - **[1454A](https://github.com/akantuni/Codeforces/tree/master/1454A)** - Special Permutation - **Accepted**
