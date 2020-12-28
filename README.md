@@ -1,5 +1,10 @@
 # Solutions to [Codeforces](https://codeforces.com) Problems
 
+### [Educational Codeforces Round 101 (Div. 2)](https://codeforces.com/contest/1469) - `2/6`
+
+- **[1469A](https://github.com/akantuni/Codeforces/tree/master/1469A)** - Regular Bracket Sequence - **Accepted**
+- **[1469B](https://github.com/akantuni/Codeforces/tree/master/1469B)** - Red and blue - **Accepted**
+
 ### [Codeforces Round #692 (Div. 2)](https://codeforces.com/contest/1465) - `1/6`
 
 - **[1465A](https://github.com/akantuni/Codeforces/tree/master/1465A)** - In-game Chat - **Accepted**
