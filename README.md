@@ -1,6 +1,6 @@
 # Solutions to [Codeforces](https://codeforces.com) Problems
 
-### [Codeforces Round #692 (Div. 2)](https://codeforces.com/contest/1465) - `2/6`
+### [Codeforces Round #692 (Div. 2)](https://codeforces.com/contest/1465) - `1/6`
 
 - **[1465A](https://github.com/akantuni/Codeforces/tree/master/1465A)** - In-game Chat - **Accepted**
 - [1465B](https://github.com/akantuni/Codeforces/tree/master/1465B) - Fair Number - **Time Limit on Test Case 4**
