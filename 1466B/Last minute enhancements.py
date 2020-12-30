@@ -11,5 +11,3 @@ for i in range(t):
             note += 1
         notes.add(note)
     print(len(notes))
-
-
