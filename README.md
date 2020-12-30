@@ -1,5 +1,10 @@
 # Solutions to [Codeforces](https://codeforces.com) Problems
 
+### [Good Bye 2020](https://codeforces.com/contest/1466) - `2/6`
+
+- **[1466A](https://github.com/akantuni/Codeforces/tree/master/1466A)** - Bovine Dilemma - **Accepted**
+- **[1466B](https://github.com/akantuni/Codeforces/tree/master/1466B)** - Last minute enhancements - **Accepted**
+
 ### [Educational Codeforces Round 101 (Div. 2)](https://codeforces.com/contest/1469) - `2/6`
 
 - **[1469A](https://github.com/akantuni/Codeforces/tree/master/1469A)** - Regular Bracket Sequence - **Accepted**
