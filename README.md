@@ -1,5 +1,11 @@
 # Solutions to [Codeforces](https://codeforces.com) Problems
 
+### [Codeforces Round #693 (Div. 3)](https://codeforces.com/contest/1472) - `2/6`
+
+- **[1472A](https://github.com/akantuni/Codeforces/tree/master/1472A)** - Cards for Friends - **Accepted**
+- **[1472B](https://github.com/akantuni/Codeforces/tree/master/1472B)** - Fair Division - **Accepted**
+- [1472C](https://github.com/akantuni/Codeforces/tree/master/1472C) - Long Jumps - **Time Limit Exceeded**
+
 ### [Good Bye 2020](https://codeforces.com/contest/1466) - `2/6`
 
 - **[1466A](https://github.com/akantuni/Codeforces/tree/master/1466A)** - Bovine Dilemma - **Accepted**
