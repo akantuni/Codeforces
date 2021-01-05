@@ -1,5 +1,10 @@
 # Solutions to [Codeforces](https://codeforces.com) Problems
 
+### [Codeforces Round #694 (Div. 2)](https://codeforces.com/contest/1471) - `2/6`
+
+- **[1471A](https://github.com/akantuni/Codeforces/tree/master/1471A)** - Strange Partition- **Accepted**
+- [1471B](https://github.com/akantuni/Codeforces/tree/master/1471B) - Strange List - **Accepted**
+
 ### [Codeforces Round #693 (Div. 3)](https://codeforces.com/contest/1472) - `2/7`
 
 - **[1472A](https://github.com/akantuni/Codeforces/tree/master/1472A)** - Cards for Friends - **Accepted**
