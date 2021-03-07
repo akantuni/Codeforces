@@ -1,5 +1,9 @@
 # Solutions to [Codeforces](https://codeforces.com) Problems
 
+### [Codeforces Educational Round 104 (Div. 2)](https://codeforces.com/contest/1487) - `1/7`
+
+- **[1487A](https://github.com/akantuni/Codeforces/tree/master/1487A)** - Arena - **Accepted**
+
 ### [Codeforces Round #695 (Div. 2)](https://codeforces.com/contest/1467) - `1/5`
 
 - **[1467A](https://github.com/akantuni/Codeforces/tree/master/1467A)** - Wizard of Orz - **Accepted**

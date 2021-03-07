@@ -16,7 +16,5 @@ for k in range(t):
 
     for count, item in b:
         ans += count * item
-    
+
     print(ans)
-
-

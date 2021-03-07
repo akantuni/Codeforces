@@ -9,7 +9,6 @@ for k in range(t):
 
     a_max = a
 
-
     mx = 0
     mn = 0
 
@@ -18,6 +17,3 @@ for k in range(t):
     mn += ceil(sum(a) / x)
 
     print(mn, mx)
-
-
-
