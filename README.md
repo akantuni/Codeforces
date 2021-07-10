@@ -1,5 +1,11 @@
 # Solutions to [Codeforces](https://codeforces.com) Problems
 
+### [Codeforces Round #731 (Div. 3)](https://codeforces.com/contest/1547) - `2/7`
+
+- **[1547A](https://github.com/akantuni/Codeforces/tree/master/1547A)** - Shortest Path with Obstacle - **Accepted**
+- **[1547B](https://github.com/akantuni/Codeforces/tree/master/1547B)** - Alphabetical Strings - **Accepted**
+- **[1547C](https://github.com/akantuni/Codeforces/tree/master/1547C)** - Pair Programming - **Wrong Answer on Test 2**
+
 ### [Codeforces Educational Round 104 (Div. 2)](https://codeforces.com/contest/1487) - `1/7`
 
 - **[1487A](https://github.com/akantuni/Codeforces/tree/master/1487A)** - Arena - **Accepted**
